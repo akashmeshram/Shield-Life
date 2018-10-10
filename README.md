@@ -1,6 +1,6 @@
 # Shield Life
-
-Shield Life is an android app with the mechanisms to predict, prevent, and manage the impact of natural disasters. 
+In a wake of tragic difficulties people become distraught and indecisive, it often happens that they do not understand what is happening and what they should do.
+Shield Life is an android app with the mechanisms to predict, prevent and manage the impact of natural disasters. 
 
 Through Shield Life we want to create an environment that enables people to make ingenious choices against the impending disaster. 
 
@@ -10,7 +10,7 @@ This app will provide real-time information and prediction about disaster prone 
 
 ### Prevent
 This app which would generate automatic to-do list to solve unanticipated natural disaster situation.
-In a wake of tragic difficulties people become distraught and indecisive, it often happens that they do not understand what is happening and what they should do. In face such problem our app would guide people and the generated to-do list would suggest them to do the necessary things, which they might not know or not being able to think. This would provide relief from sudden panic and in turn help them to stay focused.
+ In face such problem our app would guide people and the generated to-do list would suggest them to do the necessary things, which they might not know or not being able to think. This would provide relief from sudden panic and in turn help them to stay focused.
 
 App would take input from users in the form answers to some self generated questions. This questions would be open ended so that instead of making people think, app would make them act.
 The generated list would in hierarchical order, this would make people more organised and help them to be quick.
