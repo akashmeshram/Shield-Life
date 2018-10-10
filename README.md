@@ -2,14 +2,14 @@
 
 Shield Life is an android app with the mechanisms to predict, prevent, and manage the impact of natural disasters. 
 
-Through Shield Life we want to create an environment that enables people to make ingenious choices against the impending disaster. To make them think or to stay focused. A place where one could protect their dear ones.
+Through Shield Life we want to create an environment that enables people to make ingenious choices against the impending disaster. 
 
 ## Features
 ### Predict
-This app will use the data gathered from the several meteorological websites to accurately predict the chances of incoming diasaster. The obtained result will help people to perpare themselves.
+This app will provide real-time information and prediction about disaster prone areas, this will assit people to take concerned measures to save their life and reduce economic loss. 
 
 ### Prevent
-This app which would generate automatic to-do list to solve unanticipated and unpredictable problems.
+This app which would generate automatic to-do list to solve unanticipated natural disaster situation.
 In a wake of tragic difficulties people become distraught and indecisive, it often happens that they do not understand what is happening and what they should do. In face such problem our app would guide people and the generated to-do list would suggest them to do the necessary things, which they might not know or not being able to think. This would provide relief from sudden panic and in turn help them to stay focused.
 
 App would take input from users in the form answers to some self generated questions. This questions would be open ended so that instead of making people think, app would make them act.
@@ -20,4 +20,4 @@ The app would also generate necessary links for contact and would also have func
 App will be intended to targeted non-technical people.
 
 ### Manage
-The app will allow the user to fill out their medical information, such as insurance information and blood type, so first responders know how to treat them."
+Assuming that a person is stuck in a natural disaster situation, this app will facilitate that person or a first responder to get medical facilities.
