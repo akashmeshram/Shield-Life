@@ -17,13 +17,13 @@ Some pre computed list will also be present in the app which is intended for maj
 The app would also generate necessary links for contact and would also have functionality of SOS message, along with real time location sharing.
 App will be intended to targeted non-technical people.
 
-
-## Technologies Required
-1. React Native(It will be compatible for both android and iOS)
-2. Azure
-
 ### Predict
 The app will take real time data of different natural disasters prone areas from diffrent sorces and will inform the user about the disaster and the intensity of it.
 
 ## Manage
 The app stores general medical informations of a user prior to any disaster which can be used by whoever(the user itself or the rescue team) need the information after the disaster has came. For example, assuming that a person is stuck in a natural disaster situation, this data will facilitate that person or a first responder to get medical facilities.
+
+## Technologies Required
+1. React Native(It will be compatible for both android and iOS)
+2. Azure
+
