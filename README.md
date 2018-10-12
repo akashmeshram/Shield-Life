@@ -10,10 +10,11 @@ During the calamity the most important challenge is to scan through severity of 
 # Working of App
 
 1) App would first generate heat map of disaster region. This would be based on severity index of the location.
+2) Severity index will be based on the level of disaster stirike, area condition and population density.
 2) Then by zooming more specific information would generate on map notifying disaster management teams about areas.
 3) By using machine learning, actionable insights about people stuck in a particular area will be obtained.
 4) Tapping on particular region on map would generate damage levels of region.
-5) By taking into account the geomorphology of region a path to affected point would be generated. 
+5) By tapping on map, rescue team can extract the coordinates of the tapped region and send it to other teams if required.
 6) Would help in identifying community resources on the map to aid in recovery.
 
 # Technologies to use
