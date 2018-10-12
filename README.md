@@ -14,7 +14,7 @@ During the calamity the most important challenge is to scan through severity of 
 3) By using machine learning, actionable insights about people stuck in a particular area will be obtained.
 4) Tapping on particular region on map would generate damage levels of region.
 5) By taking into account the geomorphology of region a path to affected point would be generated. 
-6) Would help in identifYing community resources on the map to aid in recovery.
+6) Would help in identifying community resources on the map to aid in recovery.
 
 # Technologies to use
 
