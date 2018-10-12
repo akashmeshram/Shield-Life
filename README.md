@@ -1,7 +1,7 @@
 # Idea
 
 We plan to create an app which would use predictive analytics to generate representations for disaster-affected region.
-This information then can be used to allocate resources to prepare for disasters strategically. It will led improve response times while decreasing economic losses for rescuing.
+This information then can be used to allocate resources to prepare for disaster relief strategically. It will led to improve in response times while decreasing economic losses during rescuing.
 
 # Brief
 
